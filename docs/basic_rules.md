@@ -14,7 +14,7 @@
 
 ## Cartas especiales
 
-* **Cambio de sentido**: provoca un cambio de sentido en la ronda. Puede descartarse sobre otra carta de cambio de sentido o sobre una carta del mismo color.
+* **Cambio de sentido**: provoca un cambio de sentido en la ronda. Puede descartarse sobre otra carta de cambio de sentido o sobre una carta del mismo color al mismo tiempo bloaquiear el +2 y pasa a manos de otro jugador y salva a uno.
 * **Skip**: saltea al siguiente jugador. Puede descartarse sobre otra carta skip o sobre una carta del mismo color.
 * **+2 de color**: cuando un jugador descarta un +2 de un color determinado, el siguiente jugador debe tomar 2 cartas y pierde el turno, a menos que tenga otro +2. En este caso, puede descartar su +2 (de cualquier color) y el siguiente jugador debe tomar 4 cartas y pierde el turno. Los +2 son acumulativos, hasta que ningún jugador pueda evitar la penalidad arrojando otro +2 a la secuencia. Esta regla vale también para aquellos mazos de Uno que tengan cartas +4 de color.
 
